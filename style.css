@@ -1,3 +1,11 @@
 label {
     display: block;
   }
+
+h1 {
+    font-size: 36px;
+}
+
+form.js-dogs {
+    font-size: 50px;
+}
